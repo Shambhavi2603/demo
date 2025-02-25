@@ -1,2 +1,3 @@
 # demo
-this is mu first git repository!
+Hii
+this is my first git repository!
